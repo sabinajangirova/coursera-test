@@ -1,0 +1,48 @@
+h1 {
+  background-image:
+  linear-gradient(to bottom, rgb(255, 0, 0), rgba(0, 0, 255)),
+  url(https://i.pinimg.com/originals/60/a8/2c/60a82c6cf7fda046b291e6b2c78ea531.png);
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-style: italic;
+  font-color: white;
+  height: 40px;
+}
+
+body{
+  background-color: #E9967A;
+}
+
+.verse1:hover {
+  background-color: #F0E68C;
+}
+
+.verse1{
+  font-size: 16px;
+  font-color: white;
+  text-align: center;
+  width: 80px;
+}
+
+.verse2:hover {
+  background-color: #20B2AA;
+}
+
+.verse2{
+  font-size: 16px;
+  font-color: white;
+  text-align: center;
+  width: 80px;
+}
+
+a:link {
+  list-style: none;
+  text-decoration: none;
+  font-size: 16px;
+  font-color: white;
+}
+
+a:hover, a:active{
+  font-color: black;
+}
